@@ -47,3 +47,4 @@ Expert in using build tools like Webpack or Gulp for automating repetitive tasks
 Proficient in debugging and resolving complex JavaScript-related issues. Proficient in manual and automated testing techniques using tools like Jest, Mocha, or Jasmine.
 
 Expert in styling and layout of web pages using advanced CSS3 properties and techniques. Familiar with CSS preprocessors
+
