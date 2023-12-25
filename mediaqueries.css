@@ -99,7 +99,7 @@
   }
   .ms {
     margin: 10px;
-    box-shadow: -24px 16px 22px rgb(97, 96, 96);
+    /* box-shadow: -24px 16px 22px rgb(97, 96, 96); */
   }
   .section__text__p2 {
     font-size: 1.25rem;
